@@ -1,0 +1,17 @@
+.DS_Store
+*.zip
+*.7z
+*.rar
+*.bin
+*.rom
+*.key
+*.app
+*.dylib
+*.exe
+*.o
+*.log
+rom/
+roms/
+user/
+build/
+Portable/
